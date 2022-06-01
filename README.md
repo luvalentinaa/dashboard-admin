@@ -5,12 +5,7 @@
 
 <a href="https://vercel.com/luvalentinaa/screen-dashboard-admin">Acesse em Vercel 🔗</a>
  
-   <img src="design/desktop.png" width="380" height="600">
-   
-   <img src="design/mobile.png" width="250" height="800">
-
-  
-
+   <img src="desktop.png">
 
 
 # Desafio
@@ -33,8 +28,8 @@ Framework ou linguagem que preferir
 
 
 # Design:
-Modelo está disponível na pasta `./design`<br>
-Imagens estão disponíveis na pasta `./assets`<br>
+Modelo está disponível  `./design`<br>
+
 
 
 
